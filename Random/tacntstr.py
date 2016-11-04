@@ -1,0 +1,1 @@
+s = list(raw_input())
